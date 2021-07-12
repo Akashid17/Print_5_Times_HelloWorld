@@ -1,5 +1,5 @@
 /*
-2. Program to print 5 times “Hello World” on screen.
+Program to print 5 times “Hello World” on screen.
 */
 
 using System;
