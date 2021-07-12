@@ -1,5 +1,5 @@
 /*
-2. Program to print 5 times “Marvellous” on screen.
+2. Program to print 5 times “Hello World” on screen.
 */
 
 import java.lang.*;
